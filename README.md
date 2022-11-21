@@ -1,2 +1,4 @@
 # Thuler
- Primeiro repositório 
+ Primeiro repositório.
+
+Repositório criado para estudos.
